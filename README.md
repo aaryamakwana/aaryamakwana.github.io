@@ -1,16 +1,23 @@
 # Aarya Makwana
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+I am a final year student at BITS Pilani pursuing B.E. Electronics and Instrumentation along with MSc. Economics. I am highly passionate about AI systems and its growing importance in problem solving.
+I am currently pursuing my Bachelor's thesis at Computer Vision Center, Barcelona under the guidance of Dr. Luis Herranz on the topic "Zero-shot learning on multi-modal data."
 
-## topic 2
+More about me!
 
-aosdfhad asdofh
+Being an extrovert I make friends very easily. I have always loved sports, especially team sports. From being a state level swimmer in school to being the football captain of my university, sports is my go-to stress reliever.
+
+## Projects and Publications: 
+
+1. 
 
 
 
 ### Alumni Research Talks 10.0
 
-ART 10.0 is going online for 2021, here's the link for the schedule, lineup and other details: [computer-science-association.github.io/art](https://computer-science-association.github.io/art).
+You can find me on [LinkedIn](https://www.linkedin.com/in/aarya-makwana-58b129169) page as well. 
+
+<!-- [computer-science-association.github.io/art](https://computer-science-association.github.io/art).
 The talks will be hosted on Airmeet and live streamed to our [Youtube Channel](https://www.youtube.com/channel/UCYiBwzdsS8FImzKCDlnTqfw) and our Facebook pages: [ART](https://www.facebook.com/Alumni.Research.Talks) and [CSA](https://www.facebook.com/csa.bits). You can join the live streams incase you can't find a seat on Airmeet.
 
-https://wordpress.com/support/markdown-quick-reference/
+https://wordpress.com/support/markdown-quick-reference/ -->
