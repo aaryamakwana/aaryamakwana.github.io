@@ -9,8 +9,8 @@ Being an extrovert I make friends very easily. I have always loved sports, espec
 
 ## Rsearch Work: 
 
-1. NFResNet: Multi-scale and U-shaped Networks for Deblurring [arXiv](https://arxiv.org/abs/2212.05909)
-2. Using deep learning to analyse behaviour in video surveillances[pdf](https://drive.google.com/file/d/1Gm7smJsE_dAgt-IwXWEY_c02gtQTuVZX/view?usp=sharing)
+1. NFResNet: Multi-scale and U-shaped Networks for Deblurring - [arXiv](https://arxiv.org/abs/2212.05909)
+2. Using deep learning to analyse behaviour in video surveillances - [pdf](https://drive.google.com/file/d/1Gm7smJsE_dAgt-IwXWEY_c02gtQTuVZX/view?usp=sharing)
 3. Liquidity analysis using Machine Learning Techniques 
 
 
@@ -20,7 +20,7 @@ Being an extrovert I make friends very easily. I have always loved sports, espec
 You can find me on [LinkedIn](https://www.linkedin.com/in/aarya-makwana-58b129169) as well!
 Here is my [CV](https://drive.google.com/file/d/1MOEs5hsyN4qgbk7E_UpMIrRtz7UTTJ3A/view?usp=sharing).
 
-Feel free to contact me by email for any collaborations or queires: [University Email](f20180871@pilani.bits-pilani.ac.in) | [Personal Email](aarya.makwana1211@gmail.com)
+Feel free to contact me by email for any collaborations or queires: [University Email](f20180871@pilani.bits-pilani.ac.in) / [Personal Email](aarya.makwana1211@gmail.com)
 
 <!-- [computer-science-association.github.io/art](https://computer-science-association.github.io/art).
 The talks will be hosted on Airmeet and live streamed to our [Youtube Channel](https://www.youtube.com/channel/UCYiBwzdsS8FImzKCDlnTqfw) and our Facebook pages: [ART](https://www.facebook.com/Alumni.Research.Talks) and [CSA](https://www.facebook.com/csa.bits). You can join the live streams incase you can't find a seat on Airmeet.
