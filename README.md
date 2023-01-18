@@ -1,4 +1,4 @@
-# Aarya Makwana
+## About me:
 
 I am a final year student at BITS Pilani pursuing B.E. Electronics and Instrumentation along with MSc. Economics. I am highly passionate about Artificial Intelligence systems and its growing importance in solving real-world problems. 
 
