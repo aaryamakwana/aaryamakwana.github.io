@@ -22,7 +22,7 @@ Travelling is one of my other passions and I have travelled around 8 countries a
 ### Contact Information: 
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/aarya-makwana-58b129169) as well!
-Here is my [CV](https://drive.google.com/file/d/1MOEs5hsyN4qgbk7E_UpMIrRtz7UTTJ3A/view?usp=sharing).
+Here is my [Resume]([https://drive.google.com/file/d/1MOEs5hsyN4qgbk7E_UpMIrRtz7UTTJ3A/view?usp=sharing](https://drive.google.com/file/d/1Y1jw1SFbYLUbUXYYuRpOUnpqNUeFkJji/view?usp=sharing)).
 
 Feel free to contact me by email: [University Email](amakwana@andrew.cmu.edu) / [Personal Email](aarya.makwana1211@gmail.com)
 
